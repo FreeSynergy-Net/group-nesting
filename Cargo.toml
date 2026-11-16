@@ -1,0 +1,15 @@
+[package]
+name = "group-nesting"
+version = "0.0.1"
+edition = "2024"
+rust-version = "1.89"
+license = "MIT OR Apache-2.0"
+authors = ["FreeSynergy <support@freesynergy.net>"]
+repository = "https://github.com/FreeSynergy/group-nesting"
+description = "Group nesting modes (bottom-up, top-down, single) with cycle, depth, sensitive and AI-account checks, and a projection onto Kanidm memberof."
+readme = "README.md"
+keywords = ["groups", "nesting", "kanidm", "access-control", "hierarchy"]
+categories = ["data-structures", "algorithms"]
+
+# No dependencies on purpose: std only.
+[dependencies]
