@@ -13,7 +13,7 @@ concurrency:
 
 jobs:
   check:
-    uses: FreeSynergy/fs-release/.github/workflows/check.yml@6ebd3f8f5dfc8a0be08866416169defa48aea8f1 # v0.0.9
+    uses: FreeSynergy-Net/fs-release/.github/workflows/check.yml@15935ed0d847d522fcb43d93e340ad1b14809639 # v0.0.9
     # with:
     #   working-directory: "."
     #   apt-packages: "libssl-dev"
