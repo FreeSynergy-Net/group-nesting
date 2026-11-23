@@ -73,7 +73,7 @@ assert_eq!(plan.add[0].of, "vize");
 
 ## Made with AI help, said openly
 
-Claude (Anthropic) took part in writing this crate. The commits carry a `Co-Authored-By` footer. All decisions were made and reviewed by people.
+Claude (Anthropic) took part in writing this crate. The commits carry a `Co-Authored-By` footer. Reviewed by a second AI model; a human merges and releases.
 
 ## Relation to FreeSynergy
 
